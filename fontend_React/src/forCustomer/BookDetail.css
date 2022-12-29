@@ -1,0 +1,86 @@
+.img {
+    position: absolute;
+    right: 20%;
+    top: 12%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+.cmt{
+    position: absolute;
+    left: 900%;
+    top: 70%;
+}
+.cmtCus{
+    width: 30%;
+    margin-left: 25%;
+}
+.rtST{
+    margin-left: 25%;
+}
+h3.thicker{
+    font-weight: 900;
+    color: #ebebeb;
+}
+.usnm{
+    font-weight: 900;
+    color: #0d0b0b;
+}
+h1{
+    color: #ebebeb;
+}
+.des {
+    height: 300px;
+}
+.checked {
+color: orange;
+}
+.ratings {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    direction: rtl;
+    text-align: left;
+    margin-left: 25%;
+}
+.star {
+position: relative;
+line-height: 30px;
+display: inline-block;
+transition: color 0.2s ease;
+color: #ebebeb;
+
+}
+
+.star:before {
+content: '\2605';
+width: 30px;
+height: 30px;
+font-size: 30px;
+}
+
+.star:hover,
+.star.selected,
+.star:hover ~ .star,
+.star.selected ~ .star {
+transition: color 0.8s ease;
+color: orange;
+}
+.sentFB{
+    margin-left: 25%;
+}
+.feedBack{
+    color: #2f1414;
+}
+.h1{
+    color: rgb(21, 19, 16)
+}
+
+.rating{
+    margin-left: 15px;
+}
+.AllFB{
+    margin-left: 25%;
+}

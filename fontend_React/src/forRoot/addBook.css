@@ -1,0 +1,46 @@
+@import "https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js";
+
+.custom-file-label{
+    width: 50%;
+}
+.tg{
+    width: 40%;
+    margin-left: 40%;
+}
+
+.td{
+    margin-left: 40%;
+    width: 40%;
+}
+
+.mt{
+    margin-left: 40%;
+}
+
+.nph{
+    margin-left: 37.6%;
+}
+
+.st{
+    margin-left: 37.6%;
+}
+
+.tl{
+    margin-left: 37.6%;
+}
+
+.savebtt{
+    margin-left: 50%;
+}
+
+.ImageBook{
+    width: 200px;
+}
+
+.anh{
+    border: solid 1px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 21px 0px;
+    width: 220px;
+}
